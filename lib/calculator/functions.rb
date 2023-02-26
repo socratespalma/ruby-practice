@@ -3,15 +3,15 @@ module MathFunctions
     p num1 + num2
   end
 
-  def subtract
-    
+  def subtract(num1, num2)
+    p num1 - num2
   end
 
-  def multiply
-    
+  def multiply(num1, num2)
+    p num1 * num2
   end
 
-  def divide
-    
+  def divide(num1, num2)
+    p num1 / num2
   end
 end
